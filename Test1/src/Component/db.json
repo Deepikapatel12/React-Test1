@@ -1,0 +1,52 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "empid": "1",
+      "name": "Deepika",
+      "destination": "Indore",
+      "department": "Developer",
+      "salary": 60000
+    },
+    {
+      "empid": "2",
+      "name": "Megha",
+      "destination": "Chindwara",
+      "department": "Java",
+      "salary": 40000,
+      "id": "8371"
+    },
+    {
+      "empid": "4",
+      "name": "kumkum",
+      "destination": "Bhopal",
+      "department": "mern",
+      "salary": 20000,
+      "id": "d115"
+    },
+    {
+      "empid": "5",
+      "name": "Shivani",
+      "destination": "Sandiya",
+      "department": "Teaching",
+      "salary": 60000,
+      "id": "babb"
+    },
+    {
+      "id": "ebaa",
+      "empid": "6",
+      "name": "shivani",
+      "destination": "sandiya",
+      "department": "teaching",
+      "salary": "4000"
+    },
+    {
+      "id": "f4e8",
+      "empid": "3454",
+      "name": "DEEPIKA",
+      "destination": "BHP",
+      "department": "teaching",
+      "salary": "4574"
+    }
+  ]
+}
